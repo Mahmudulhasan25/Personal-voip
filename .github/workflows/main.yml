@@ -30,4 +30,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: sip-phone-apk
-          path: src/app/build/outputs/apk/debug/*.apk￼Enter
+          path: src/app/build/outputs/apk/debug/*.apk
